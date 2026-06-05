@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your shadow moves across the hardwood floor
+> I’ve never wanted anything much more
+> The quiet way you trace the collar of my shirt
+> It’s a beautiful kind of ache, the way you make it hurt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
