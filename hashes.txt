@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Soft Voice Safe Spaces
+
+This log tracks the cryptographic history and versioning for the song **Soft Voice Safe Spaces** (soft-voice-safe-spaces).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T20:16:33.067978 | `v1` | `93ad9a3026d1a53da120c4e94caca55624603dfedb6065037ba8f9fd8f8fc086` | `9d473ef79872f7aa8d4f1f8c4924c47ba404f18491e13c2ce107066f56fc1843` | `2026-06-05_soft-voice-safe-spaces-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
